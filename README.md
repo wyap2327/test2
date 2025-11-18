@@ -1,19 +1,22 @@
 
 ### Source of Datasets
-- **The Movies Dataset**
+> [!IMPORTANT]
+> Create a bullet list of the dataset(s) you used, their source with a link, and their licence. Also, include 2 specific examples from your dataset(s); present these nicely.
+
+- The Movies Dataset
 
 - Source: Kaggle – The Movies Dataset
 - link: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?
 - License: CC0: Public Domain
 - Examples from dataset:
-    1. The Shawshank Redemption (1994) – Genre: Drama, Budget: $25,000,000, Popularity: 82.7
-    2. The Dark Knight (2008) – Genre: Action, Crime, Drama, Budget: $185,000,000, Popularity: 96.5
+    1. Toy Story – Genre: Animation, Comedy, Family 
+    2. Grumpier Old Men – Genre: Romance, Comedy
 
 - Movie Classifier Dataset
 
-- Source: Kaggle – Movie Classifier
+- Source: Kaggle – Movie Posters
 - Link: https://www.kaggle.com/datasets/raman77768/movie-classifier
 - License: CC0: Public Domain
 - Examples from dataset:
-    1. Inception (2010) – Genre: Action, Adventure, Sci-Fi
-2. Frozen (2013) – Genre: Animation, Adventure, Comedy
+    1. tt0086425 – Genre: Comedy, Drama
+    2. tt0085549 – Genre: Drama, Romance, Music
