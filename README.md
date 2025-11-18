@@ -1,8 +1,12 @@
 ### Source of Datasets
 -The Movies Dataset
+
 -Source: Kaggle – The Movies Dataset
+
 -link: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?
+
 -License: CC0: Public Domain
+
 -Examples from dataset:
     1. The Shawshank Redemption (1994) – Genre: Drama, Budget: $25,000,000, Popularity: 82.7
     2. The Dark Knight (2008) – Genre: Action, Crime, Drama, Budget: $185,000,000, Popularity: 96.5
